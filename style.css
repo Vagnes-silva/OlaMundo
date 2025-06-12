@@ -2,3 +2,17 @@ body{
     background-color: #305050;
     color: withe;
 }
+
+h2{
+    color: #7ae2cf;
+}
+
+.texto_html{
+    color: orangered;
+    font-size: 30px;
+}
+
+#nome-cursista{
+    font-weight: bold;
+    color:rgb(230, 222, 15);
+}
